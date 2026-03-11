@@ -8,4 +8,4 @@ A aplicação é organizada em uma estrutura de separação de responsabilidades
 
 ## Comentários
 
-Comentários in-code foram adicionados afim de melhorar a leitura e compreensão do código.
+Comentários in-code foram adicionados com intuito de melhorar a leitura e compreensão do código.

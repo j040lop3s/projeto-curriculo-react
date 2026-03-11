@@ -1,7 +1,7 @@
-import { CurriculoContext } from "./CurriculumContext";
-import Menu from "./Menu";
-import Sidebar from "./Sidebar";
-import ContentArea from "./ContentArea";
+import { CurriculoContext } from "./context/CurriculumContext";
+import Menu from "./components/Menu";
+import Sidebar from "./components/Sidebar";
+import ContentArea from "./components/ContentArea";
 
 
 function App() {

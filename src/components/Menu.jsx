@@ -1,5 +1,5 @@
-import { useCurriculum } from "../context/CurriculumContext";
-import CURRICULUM_DATA from "../data/curriculumData";
+import { useCurriculum } from "./context/CurriculumContext";
+import CURRICULUM_DATA from "./data/curriculumData";
 import Button from "./Button";
 
 function Menu() {

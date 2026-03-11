@@ -1,4 +1,4 @@
-import CURRICULUM_DATA from "../curriculumData";
+import CURRICULUM_DATA from "./data/curriculumData";
 
 function Sidebar() {
 

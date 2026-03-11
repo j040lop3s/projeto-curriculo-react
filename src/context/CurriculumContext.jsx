@@ -1,7 +1,7 @@
 // Contexto criado para gerenciar o estado e as renderizações no componente de conteúdo através de botões em um menu.
 
 import { createContext, useContext, useState } from "react";
-import CURRICULUM_DATA from "../data/curriculumData";
+import CURRICULUM_DATA from "./data/curriculumData";
 
 const Context = createContext();
 

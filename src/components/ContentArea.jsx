@@ -1,6 +1,6 @@
 // Componente que renderiza o conteúdo das seções em relação ao estado.
 
-import { useCurriculum } from "../context/CurriculumContext";
+import { useCurriculum } from "./context/CurriculumContext";
 
 function ContentArea() {
 

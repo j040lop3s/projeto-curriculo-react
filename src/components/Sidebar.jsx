@@ -1,4 +1,4 @@
-import CURRICULUM_DATA from "./data/curriculumData.jsx";
+import CURRICULUM_DATA from "../data/curriculumData.jsx";
 
 function Sidebar() {
 

@@ -1,4 +1,5 @@
 import CURRICULUM_DATA from "../data/curriculumData.jsx";
+import perfil from '../assets/perfil.png';
 
 function Sidebar() {
 
@@ -8,7 +9,7 @@ function Sidebar() {
         <aside className="p-8 flex flex-col items-center space-y-4">
             <div>
                 <img className="border-4 border-black w-48 h-48 object-cover rounded-none shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]" 
-                    src="/perfil.png" />
+                    src={perfil} />
             </div>
 
             <div className="flex flex-col p-6 space-y-3 w-100 items-center font-black uppercase text-sm">
